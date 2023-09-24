@@ -1,0 +1,11 @@
+package org.ash.enums;
+
+public enum ConfigurationEnum {
+	URL,
+	RETRY,
+	PASSEDSCREENSHOT,
+	FAILEDSCREENSHOT,
+	SKIPPEDSCREENSHOT,
+	OVERRIDEREPORTS,
+	RUNMODE
+}
