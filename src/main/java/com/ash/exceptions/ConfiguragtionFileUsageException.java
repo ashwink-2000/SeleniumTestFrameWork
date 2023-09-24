@@ -1,7 +1,7 @@
 package com.ash.exceptions;
 
 public class ConfiguragtionFileUsageException extends FrameworkException{
-
+// custom exception 
 	public ConfiguragtionFileUsageException(String message)
 	{
 		super(message);
